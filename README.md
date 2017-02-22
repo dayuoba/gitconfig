@@ -1,5 +1,6 @@
 # gitconfig
 ## my git config
+```
 [core]
 	editer = nv
 [push]
@@ -15,3 +16,4 @@
 	l1 = log --online
 	acm = !git add -u && git commit -m
 	au = add -u
+```
