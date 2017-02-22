@@ -2,7 +2,7 @@
 ## my git config
 ```
 [core]
-	editer = nv
+	editer = nvim
 [push]
 	default = matching
 [alias]
